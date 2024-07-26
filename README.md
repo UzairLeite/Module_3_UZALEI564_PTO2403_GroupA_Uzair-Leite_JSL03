@@ -12,7 +12,7 @@ You will present your reasoning for each example, record your presentation using
 
 ## Step 1: Clone the Repository
 
-Repo Link: https://github.com/CodeSpace-Academy/Module_3_StudentNo_Classcode_Group_Name-Surname_JSL03
+Repo Link: https://github.com/UzairLeite/Module_3_UZALEI564_PTO2403_GroupA_Uzair-Leite_JSL03
 
 1. Access the provided repository containing the starter code and presentation template.
 2. Clone the repository.
@@ -59,7 +59,7 @@ Follow the steps outlined above to complete the project successfully.
 
 # Presentation Talking Points
 
-Example #: [Insert Example Number]
+Example #: example_1.js
 
 ## Imperative Approach [2 Minutes]
 1. **Step-by-Step Explanation:** Start by explaining the code logic in the imperative approach.
@@ -72,7 +72,7 @@ Example #: [Insert Example Number]
    - Discuss any mutable variables or states that change during execution.
 
 
-Example #: [Insert Example Number]
+Example #: example_2.js
 
 ## Declarative Approach [2 Minutes]
 1. **High-Level Process Description:** Explain the code logic in the declarative approach.
